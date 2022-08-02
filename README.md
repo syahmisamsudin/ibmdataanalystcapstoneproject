@@ -11,4 +11,7 @@ I have recently been hired as a Data Analyst by a global IT and business consult
 
 As a Data Analyst, i will be assisting with this initiative and have been tasked with collecting data from various sources and identifying trends for this year's report on emerging skills. I will be collecting the top programming skills that are most in demand from various sources including job postings, training portals and surveys.
 
-
+After that, I will begin analyzing the data and identify insights and trends that may include the following:
+ - What are the top programming languages in demand?
+ - What are the top database skills in demand?
+ - What are the popular IDEs?
